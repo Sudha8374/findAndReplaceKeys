@@ -1,7 +1,7 @@
 config:
   giturl: https://github.training.cerner.com/ob095866/Test1.git
   gitUsername: ob095866
-  gitPassword: Umadevi@1506
+  gitPassword: ************
   gitcloneDirectoryPath: C:\\Cloning2
   gitFindKey: UNIVERSALHS_MILLENNIUM
   gitFindKey1: KCHS_MILLENNIIUM
