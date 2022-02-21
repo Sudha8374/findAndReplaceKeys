@@ -1,0 +1,18 @@
+config:
+  giturl: https://github.training.cerner.com/ob095866/Test1.git
+  gitUsername: ob095866
+  gitPassword: Umadevi@1506
+  gitcloneDirectoryPath: C:\\Cloning2
+  gitFindKey: UNIVERSALHS_MILLENNIUM
+  gitFindKey1: KCHS_MILLENNIIUM
+  gitFindKey2: UNIVERSALHS_EDW_MILL_CDS 
+  gitFindKey3: KCHS_ANALYST
+  
+spring:
+  application:
+    name: gittool
+    
+  
+  
+    
+    
